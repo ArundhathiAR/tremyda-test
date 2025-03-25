@@ -1,1 +1,2 @@
-# tremyda-test
+# tremyda-multi-tenant
+Tremyda Multi Tenant
